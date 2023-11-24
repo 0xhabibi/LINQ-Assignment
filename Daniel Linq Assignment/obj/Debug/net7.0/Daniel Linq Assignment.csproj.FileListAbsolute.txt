@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\bin\Debug\net7.0\Daniel Linq Assignment.exe
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\bin\Debug\net7.0\Daniel Linq Assignment.deps.json
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\bin\Debug\net7.0\Daniel Linq Assignment.runtimeconfig.json
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\bin\Debug\net7.0\Daniel Linq Assignment.dll
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\bin\Debug\net7.0\Daniel Linq Assignment.pdb
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.AssemblyInfo.cs
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.dll
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\refint\Daniel Linq Assignment.dll
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.pdb
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\Daniel Linq Assignment.genruntimeconfig.cache
+C:\Users\hp\Desktop\CODE_WITH_MOSH\Daniel Linq Assignment\Daniel Linq Assignment\obj\Debug\net7.0\ref\Daniel Linq Assignment.dll
